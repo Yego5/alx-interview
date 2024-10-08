@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 '''module: 5-island_perimeter
  returns the perimeter of the island based on `grid`
